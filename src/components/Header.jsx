@@ -69,12 +69,12 @@ const Header = () => {
             <Link to={"/"} className="text-lg text-white hover:text-red-500 duration-100 transition-all ease-in-out cursor-pointer">
               Home
             </Link>
-            <Link to={"/menu"} className="text-lg text-white hover:text-red-500 duration-100 transition-all ease-in-out cursor-pointer">
+            {/* <Link to={"/menu"} className="text-lg text-white hover:text-red-500 duration-100 transition-all ease-in-out cursor-pointer">
               Menu
             </Link>
             <Link to={"/aboutus"} className="text-lg text-white hover:text-red-500 duration-100 transition-all ease-in-out cursor-pointer">
               About Us
-            </Link>
+            </Link> */}
           </motion.ul>
 
           <div
